@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Privacy Policy
-permalink: /privacy-policy/
+permalink: /apps/DuckTime/privacy-policy/
 ---
 
 ### プライバシーポリシー

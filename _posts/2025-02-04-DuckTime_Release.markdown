@@ -12,6 +12,8 @@ categories: [リリース]
 ドット絵のアヒルがリンゴを食べたり、落としてしまったり、コーヒーを飲みながら読書をしていたりします。  
 ぜひアヒルを見守ってあげてください！
 
+[プライバシーポリシーはこちら]({{ site.url }}/apps/DuckTime/privacy-policy)
+
 対応機種はiPhone(iOS 12.0以降)、iPad(iOS 12.0以降)、iPod touch(iOS 12.0以降)です。
 
 [DuckTime]:https://apps.apple.com/jp/app/ducktime/id6741355405
