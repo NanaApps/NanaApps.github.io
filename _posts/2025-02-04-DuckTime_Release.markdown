@@ -2,7 +2,6 @@
 layout: post
 title:  "DuckTimeの配信を開始しました！"
 date:   2025-02-04 08:00:00 +0900
-categories: [リリース]
 ---
 
 こんにちは！
